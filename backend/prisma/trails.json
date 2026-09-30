@@ -1,0 +1,17 @@
+[
+  {"name": "Cedar Ridge Loop", "distanceMiles": 4.2, "difficulty": "Easy", "region": "Blue Hills"},
+  {"name": "Falcon Point Trail", "distanceMiles": 7.8, "difficulty": "Hard", "region": "Blue Hills"},
+  {"name": "Willow Creek Path", "distanceMiles": 2.1, "difficulty": "Easy", "region": "River Valley"},
+  {"name": "Granite Summit Trail", "distanceMiles": 9.5, "difficulty": "Hard", "region": "Highpeak Range"},
+  {"name": "Meadowbrook Loop", "distanceMiles": 3.4, "difficulty": "Moderate", "region": "River Valley"},
+  {"name": "Silver Pine Trail", "distanceMiles": 5.6, "difficulty": "Moderate", "region": "Highpeak Range"},
+  {"name": "Fox Hollow Path", "distanceMiles": 1.8, "difficulty": "Easy", "region": "Blue Hills"},
+  {"name": "Eagle Crest Trail", "distanceMiles": 8.3, "difficulty": "Hard", "region": "Highpeak Range"},
+  {"name": "Sunset Ridge Loop", "distanceMiles": 4.9, "difficulty": "Moderate", "region": "Coastal Bluffs"},
+  {"name": "Tidepool Walk", "distanceMiles": 1.2, "difficulty": "Easy", "region": "Coastal Bluffs"},
+  {"name": "Windward Bluff Trail", "distanceMiles": 6.4, "difficulty": "Moderate", "region": "Coastal Bluffs"},
+  {"name": "Deer Run Path", "distanceMiles": 2.9, "difficulty": "Easy", "region": "River Valley"},
+  {"name": "Stonecrop Summit", "distanceMiles": 7.1, "difficulty": "Hard", "region": "Highpeak Range"},
+  {"name": "Hemlock Hollow Loop", "distanceMiles": 3.7, "difficulty": "Moderate", "region": "Blue Hills"},
+  {"name": "Cliffside Overlook Trail", "distanceMiles": 5.0, "difficulty": "Moderate", "region": "Coastal Bluffs"}
+]
